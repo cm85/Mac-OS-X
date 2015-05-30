@@ -9,4 +9,4 @@
 
 - ######[2501 OS X Terminal Commands Wiki](https://github.com/cm85/Mac-OS-X/wiki/2501-Possible-OS-X-Terminal-Commands-Wiki/)######
 
-- ######[Carlo's GitHub Page](http://cm85.github.io/Mac-OS-X/)######
+- ######[© CM85 GitHub Website](http://cm85.github.io/Mac-OS-X/)######
